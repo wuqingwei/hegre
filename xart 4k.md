@@ -1,6 +1,7 @@
 https://linsemao.s3.us-west-1.amazonaws.com/files/202006/x-art%204k%E7%A3%81%E5%8A%9Blinsemao.com%20%E6%95%B4%E7%90%86.txt
 
 Create by Linsemao. website	https://linsemao.com
+
 magnet:?xt=urn:btih:edbc2442671a080505754e2922d1e4ea105462ad
 magnet:?xt=urn:btih:b26efc44ae661dfade20ad67245f05392353106d
 magnet:?xt=urn:btih:5afcae24277a325ad4d2823ad7237b101031a45a
